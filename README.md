@@ -30,7 +30,7 @@
 <h2>How to Run</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/news-aggregator.git</code></pre>
+    <pre><code>https://github.com/RikGanguli/Android-News-Aggregator.git</code></pre>
   </li>
   <li>Open the project in Android Studio.</li>
   <li>Ensure you have the required dependencies in your <code>build.gradle</code> file (e.g., Android Volley, ViewPager2, etc.).</li>
@@ -40,7 +40,7 @@
 <h2>API Setup</h2>
 <ol>
   <li>Sign up for an API key from <a href="https://newsapi.org/">NewsAPI.org</a>.</li>
-  <li>Add your API key in the appropriate location in the app's code (e.g., in a constants file or directly in the API call).</li>
+  <li>Insert your API key at the appropriate location in MainActivity.java.</li>
 </ol>
 
 <h2>Usage</h2>
@@ -56,5 +56,5 @@
 <p>(Add screenshots of your app here)</p>
 
 <h2>Credits</h2>
-<p>Developed by [Your Name]</p>
+<p>Developed by Rik Ganguli Biswas</p>
 <p>Powered by <a href="https://newsapi.org/">NewsAPI.org</a></p>
