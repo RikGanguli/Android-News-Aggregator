@@ -30,7 +30,7 @@
 <h2>How to Run</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>https://github.com/RikGanguli/Android-News-Aggregator.git</code></pre>
+    <pre><code>git clone https://github.com/RikGanguli/Android-News-Aggregator.git</code></pre>
   </li>
   <li>Open the project in Android Studio.</li>
   <li>Ensure you have the required dependencies in your <code>build.gradle</code> file (e.g., Android Volley, ViewPager2, etc.).</li>
@@ -53,7 +53,7 @@
 </ul>
 
 <h2>Screenshots</h2>
-<p>(Add screenshots of your app here)</p>
+<p></p>
 
 <h2>Credits</h2>
 <p>Developed by Rik Ganguli Biswas</p>
