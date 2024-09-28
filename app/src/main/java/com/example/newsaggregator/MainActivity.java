@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Map<Integer, String> color_filter_map = new HashMap<>();
     ArrayList<News> newsArticles;
     private NewsAdapter news_Adapter;
-    private String api_key ="af3cab2b7de04ff2a34682c0aaf9ef76";
+    private String api_key ="your-api-key";
     RecyclerView rv;
     private Menu genres;
 
